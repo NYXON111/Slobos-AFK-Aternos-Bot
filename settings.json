@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "FriendlyFr.aternos.me",
-    "port": FriendlyFr.aternos.me,
+    "port":49490,
     "version": "",
     "try-creative": false
   },
