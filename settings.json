@@ -9,7 +9,7 @@
     "ip": "FriendlyFr.aternos.me",
     "port":49490,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
